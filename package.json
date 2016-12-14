@@ -1,0 +1,21 @@
+{
+  "name": "pullup-api",
+  "version": "0.0.0",
+  "description": "pullup server",
+  "main": "app.js",
+  "dependencies": {
+    "lodash": "^3.10.1",
+    "restify": "~4.0.3",
+    "jsonfile": "~2.2.3",
+    "later": "~1.2.0"
+  },
+  "engines": {
+    "node": "6.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
